@@ -1,0 +1,11 @@
+test-python0  Wavelength 1500.0
+1500.0  Incident theta angle 0.0
+  Value for phi 0.0
+  Value for gamma 0.0
+  Polarization angle 0.0
+  Particle symmetry semi-axes 1.0
+(1.19+1.2j)(1.19+1.2j)(1.19+1.2j)  Number of dipoles along major axes 1
+  Number of fine structure devisions per dipole cell side 1
+  Real part of index of refraction 1.2
+  Imaginary part of the index of refraction 0.5
+2.0
