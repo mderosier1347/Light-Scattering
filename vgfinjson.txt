@@ -1,0 +1,28 @@
+[
+    {
+        "Comments": "1",
+        "Counter": 0,
+        "Wavelength": 5.0,
+        "Incident theta angle": 1.0,
+        "Value for phi": 1.0
+    },
+    {
+        "Value for gamma": 1.0,
+        "Polarization angle": 1.0,
+        "Particle symmetry semi-axes": 1.0
+    },
+    {
+        "EPS": "2j",
+        "ER": "2j",
+        "EI": "2j",
+        "TD": "2.0"
+    },
+    {
+        "Number of dipoles along major axes": 1,
+        "Number of fine structure devisions per dipole cell side": 1
+    },
+    {
+        "Real part of index of refraction": 1.0,
+        "Imaginary part of index of refraction": 1.0
+    }
+]
