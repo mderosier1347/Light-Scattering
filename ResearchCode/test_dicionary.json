@@ -1,0 +1,11 @@
+{
+    "First": "Christine",
+    "Last": "Whitney",
+    "Age": 25,
+    "Birthday": "March 10",
+    "Grades": [
+        1,
+        2,
+        3
+    ]
+}
